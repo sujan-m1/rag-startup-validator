@@ -1,0 +1,7 @@
+myenv/
+.env
+__pycache__/
+*.pyc
+faiss_index/
+chroma_db/
+app.py
